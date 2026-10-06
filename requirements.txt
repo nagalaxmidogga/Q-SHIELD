@@ -1,0 +1,4 @@
+qiskit[all]~=2.5.2
+numpy>=1.26
+pandas>=2.0
+streamlit>=1.40
